@@ -172,7 +172,7 @@
         <h1>¡Feliz Día, Amor!</h1>
 
         <div class="foto-placeholder">
-            <img src="/foto.jpg" alt="Nuestra Foto">
+            <img src="img/foto.jpg" alt="Nuestra Foto">
         </div>
 
         <p>
@@ -193,7 +193,7 @@
     </div>
 
     <audio id="musica" loop preload="auto">
-        <source src="/eres-mi-sueño.mp3" type="audio/mpeg">
+        <source src="music/eres-mi-sueño.mp3" type="audio/mpeg">
     </audio>
 
     <script>
